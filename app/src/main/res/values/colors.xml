@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#161515</color>
+    <color name="colorPrimaryDark">@color/radikal_black</color>
+    <color name="colorAccent">@color/radikal_red</color>
+    <color name="backgroundMessageA">#add8e6</color>
+    <color name="backgroundMessageB">#6E7474</color>
+    <color name="radikal_red">#8D0000</color>
+    <color name="radikal_black">#070707</color>
+</resources>

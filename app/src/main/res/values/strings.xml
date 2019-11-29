@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RadikalChatApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_text_hints">"Type your message here"</string>
+</resources>
